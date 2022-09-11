@@ -114,7 +114,7 @@ To add ***TermStyle*** to your project's dependencies, add this to your project'
 dependencies:
   ...
   termstyle:
-    git: git://github.com/angeldollface/TermStyle.git
+    git: git://github.com/angeldollface/termstyle.git
 ```
 
 The three dots represent anything else that you might have in the `dependencies` section.
