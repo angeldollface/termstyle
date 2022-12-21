@@ -2,9 +2,9 @@ name: test
 description: A test app for TermStyle!
 version: 1.0.0
 publish_to: none
-homepage: https://github.com/iamtheblackunicorn/TermStyle
+homepage: https://github.com/angeldollface/TermStyle
 environment:
   sdk: '>=2.12.0 <3.0.0'
 dependencies:
   termstyle:
-    git: git://github.com/iamtheblackunicorn/TermStyle.git
+    git: git://github.com/angeldollface/TermStyle.git
