@@ -2,7 +2,7 @@
 
 [![GitHub CI](https://github.com/angeldollface/termstyle/actions/workflows/dart.yml/badge.svg)](https://github.com/angeldollface/termstyle/actions)
 
-*Making your Dart command-line apps funky! :dancer:*
+***Making your Dart command-line apps funky! :dancer:***
 
 ## About :books:
 
